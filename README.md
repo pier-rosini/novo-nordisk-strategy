@@ -6,4 +6,5 @@ the capital structure (targeted leverage) to fund capacity/M&A—while using out
 
 Disclaimer: This case is purely illustrative and academic. It is not affiliated with or endorsed by Novo Nordisk or its stakeholders.
 
+📄 [Download the PDF](./Novo%20Nordisk.pdf)
 
